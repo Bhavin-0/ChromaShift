@@ -38,8 +38,10 @@ chromaShift/
 ---
 
 ## 📸 Preview
-![ChromaShift Screenshot](screenshot.png)
+![ChromaShift Screenshot](solidpic.png)
 
+
+![ChromaShift Screenshot](gradientpic.png)
 ---
 
 ## ✨ Future Improvements
